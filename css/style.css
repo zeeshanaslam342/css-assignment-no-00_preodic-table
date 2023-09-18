@@ -1,11 +1,55 @@
 body {
     color: white;
-}
-
-#main-box {
     background-color: black;
 }
 
+
 #main-heading {
     color: white;
+}
+
+/* Cell background Colors */
+
+.ferozi {
+    background-color: #00B7BF;
+}
+
+.darkFerozi {
+    background-color: #009092;
+}
+
+.lightBlue {
+    background-color: #0067CC;
+}
+
+.darkBlue {
+    background-color: #004E75;
+}
+
+.lightPurple {
+    background-color: #B368A1;
+}
+
+.darkPurple {
+    background-color: #5F2A54;
+}
+
+.yellow {
+    background-color: #FFB751;
+}
+
+.green {
+    background-color: #00D166;
+}
+
+.orange {
+    background-color: #FF6D46;
+}
+
+.pink {
+    background-color: #FE3652;
+}
+
+.gary {
+    background-color: #7C9A98;
 }
